@@ -1,1 +1,2 @@
 # Dog_breed_operationalizing
+First, find and downloaded starter files, which are located in the Resources section for this project lesson. The starter file called ****train_and_deploy-solution.ipynb**** is a Jupyter notebook that trains and deploys a computer vision model. The starter file called ****hpo.py**** is the "entry point" for the train_and_deploy-solution.ipynb notebook. You can upload both of these files to a Sagemaker instance and run them there, using Jupyter or JupyterLab.
